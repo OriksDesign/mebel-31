@@ -1,0 +1,9 @@
+/node_modules/
+/dist/
+/.git/
+/app/css/
+/**/*.psd
+/**/Thumbs.db
+/button_test/
+/PHP_AJAX_E-mail/
+/web/
