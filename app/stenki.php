@@ -35,7 +35,7 @@ require_once 'container-head-top.php';
 	<div class="container">
 		<h1>Мебель</h1>
 		<em></em>
-		<h2><a href="index.html">Главная</a><label>/</label>Корпусная мебель</h2>
+		<h2><a href="index.php">Главная</a><label>/</label>Корпусная мебель</h2>
 	</div>
 </div>
 <!-- //end banner-->
@@ -47,15 +47,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/stenki/001.jpg" class="img-responsive" alt="Мебельная стенка ">
+								<img src="images/cabinet/stenki/001.jpg" class="img-responsive" alt="Мебельные стенки">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/001.jpg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/stenki/001.jpg" rel="Мебельные стенки" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Мебельная стенка</span>
+										<span>Мебельные стенки</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -73,15 +74,43 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/stenki/002.jpg" class="img-responsive" alt="Мебельная стенка ">
+								<img src="images/cabinet/stenki/002.jpg" class="img-responsive" alt="Мебельные стенки">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/002.jpg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/stenki/002.jpg" rel="Мебельные стенки" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Мебельная стенка</span>
+										<span>Мебельные стенки</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/stenki/003.jpg" class="img-responsive" alt="Мебельные стенки:">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/stenki/003.jpg" rel="Мебельные стенки:" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Мебельные стенки</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -99,15 +128,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/stenki/003.jpg" class="img-responsive" alt="Мебельная стенка ">
+								<img src="images/cabinet/stenki/004.jpg" class="img-responsive" alt="Мебельные стенки">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/003.jpg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/stenki/004.jpg" rel="Мебельные стенки" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Мебельная стенка</span>
+										<span>Мебельные стенки</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -125,15 +155,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/stenki/004.jpg" class="img-responsive" alt="Мебельная стенка ">
+								<img src="images/cabinet/stenki/005.jpg" class="img-responsive" alt="Мебельные стенки">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/004.jpg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/stenki/005.jpg" rel="Мебельные стенки" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Мебельная стенка</span>
+										<span>Мебельные стенки</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -144,22 +175,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/stenki/005.jpg" class="img-responsive" alt="Мебельная стенка ">
+								<img src="images/cabinet/stenki/006.jpg" class="img-responsive" alt="Мебельные стенки ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/005.jpg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/stenki/006.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Мебельная стенка</span>
+										<span>Мебельные стенки</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -170,33 +201,6 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/cabinet/stenki/006.jpg" class="img-responsive" alt="Мебельная стенка ">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/006.jpg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Мебельная стенка</span>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
 							</div>
 						</div>
 					</div>
@@ -204,15 +208,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/stenki/007.jpg" class="img-responsive" alt="Мебельная стенка ">
+								<img src="images/cabinet/stenki/007.jpg" class="img-responsive" alt="Мебельные стенки ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/007.jpg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/stenki/007.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Мебельная стенка</span>
+										<span>Мебельные стенки</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -223,22 +228,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/stenki/008.jpg" class="img-responsive" alt="Мебельная стенка ">
+								<img src="images/cabinet/stenki/008.jpg" class="img-responsive" alt="Мебельные стенки ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/008.jpg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/stenki/008.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Мебельная стенка</span>
+										<span>Мебельные стенки</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -249,22 +254,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/stenki/009.jpg" class="img-responsive" alt="Мебельная стенка ">
+								<img src="images/cabinet/stenki/009.jpg" class="img-responsive" alt="Мебельные стенки ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/009.jpg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/stenki/009.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Мебельная стенка</span>
+										<span>Мебельные стенки</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -275,22 +280,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/stenki/010.jpg" class="img-responsive" alt="Мебельная стенка ">
+								<img src="images/cabinet/stenki/010.jpg" class="img-responsive" alt="Мебельные стенки ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/010.jpg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/stenki/010.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Мебельная стенка</span>
+										<span>Мебельные стенки</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -301,22 +306,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/stenki/011.jpg" class="img-responsive" alt="Мебельная стенка ">
+								<img src="images/cabinet/stenki/011.jpg" class="img-responsive" alt="Мебельные стенки ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/011.jpg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/stenki/011.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Мебельная стенка</span>
+										<span>Мебельные стенки</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -327,22 +332,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/stenki/012.jpeg" class="img-responsive" alt="Мебельная стенка ">
+								<img src="images/cabinet/stenki/012.jpg" class="img-responsive" alt="Мебельные стенки ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/012.jpeg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/stenki/012.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Мебельная стенка</span>
+										<span>Мебельные стенки</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -353,49 +358,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/cabinet/stenki/013.jpg" class="img-responsive" alt="Мебельная стенка ">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/013.jpg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Мебельная стенка</span>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/stenki/014.jpg" class="img-responsive" alt="Мебельная стенка ">
+								<img src="images/cabinet/stenki/013.jpg" class="img-responsive" alt="Мебельные стенки ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/stenki/014.jpg" rel="Мебельная стенка " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/stenki/013.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Мебельная стенка</span>
+										<span>Мебельные стенки</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -408,7 +386,215 @@ require_once 'container-head-top.php';
 								</div>
 							</div>
 						</div>
-					</div>																									
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/stenki/014.jpg" class="img-responsive" alt="Мебельные стенки ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/stenki/014.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Мебельные стенки</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>																								
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/stenki/015.jpg" class="img-responsive" alt="Мебельные стенки ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/stenki/015.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Мебельные стенки</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/stenki/016.jpg" class="img-responsive" alt="Мебельные стенки ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/stenki/016.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Мебельные стенки</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/stenki/017.jpg" class="img-responsive" alt="Мебельные стенки ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/stenki/017.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Мебельные стенки</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/stenki/018.jpg" class="img-responsive" alt="Мебельные стенки ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/stenki/018.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Мебельные стенки</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/stenki/019.jpg" class="img-responsive" alt="Мебельные стенки ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/stenki/019.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Мебельные стенки</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/stenki/020.jpg" class="img-responsive" alt="Мебельные стенки ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/stenki/020.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Мебельные стенки</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/stenki/021.jpg" class="img-responsive" alt="Мебельные стенки ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/stenki/021.jpg" rel="Мебельные стенки " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Мебельные стенки</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>																
 					<div class="clearfix"></div>
 				</div>
 			</div>

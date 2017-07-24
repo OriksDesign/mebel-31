@@ -35,7 +35,7 @@ require_once 'container-head-top.php';
 	<div class="container">
 		<h1>Мебель</h1>
 		<em></em>
-		<h2><a href="index.html">Главная</a><label>/</label>Корпусная мебель</h2>
+		<h2><a href="index.php">Главная</a><label>/</label>Корпусная мебель</h2>
 	</div>
 </div>
 <!-- //end banner-->
@@ -47,15 +47,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/raznoe/15000.jpg" class="img-responsive" alt="Корпусная мебель ">
+								<img src="images/cabinet/raznoe/001.jpg" class="img-responsive" alt="Разное">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/15000.jpg" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/raznoe/001.jpg" rel="Разное" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Корпусная мебель</span>
+										<span>Разное</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -73,15 +74,43 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/raznoe/15102007128.jpg" class="img-responsive" alt="Корпусная мебель ">
+								<img src="images/cabinet/raznoe/002.jpg" class="img-responsive" alt="Разное">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/15102007128.jpg" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/raznoe/002.jpg" rel="Разное" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Корпусная мебель</span>
+										<span>Разное</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/raznoe/003.jpg" class="img-responsive" alt="Разное:">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/raznoe/003.jpg" rel="Разное:" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Разное</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -99,15 +128,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/raznoe/DSC-0000014.jpg" class="img-responsive" alt="Корпусная мебель ">
+								<img src="images/cabinet/raznoe/004.jpg" class="img-responsive" alt="Разное">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/DSC-0000014.jpg" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/raznoe/004.jpg" rel="Разное" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Корпусная мебель</span>
+										<span>Разное</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -125,15 +155,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/raznoe/DSC-0028.jpg" class="img-responsive" alt="Корпусная мебель ">
+								<img src="images/cabinet/raznoe/005.jpg" class="img-responsive" alt="Разное">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/DSC-0028.jpg" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/raznoe/005.jpg" rel="Разное" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Корпусная мебель</span>
+										<span>Разное</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -144,22 +175,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/raznoe/DSC-0000026.jpg" class="img-responsive" alt="Корпусная мебель ">
+								<img src="images/cabinet/raznoe/006.jpg" class="img-responsive" alt="Разное ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/DSC-0000026.jpg" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/raznoe/006.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Корпусная мебель</span>
+										<span>Разное</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -170,33 +201,6 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/cabinet/raznoe/DSC00835.JPG" class="img-responsive" alt="Корпусная мебель ">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/DSC00835.JPG" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Корпусная мебель</span>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
 							</div>
 						</div>
 					</div>
@@ -204,15 +208,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/raznoe/DSC00919.JPG" class="img-responsive" alt="Корпусная мебель ">
+								<img src="images/cabinet/raznoe/007.jpg" class="img-responsive" alt="Разное ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/DSC00919.JPG" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/raznoe/007.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Корпусная мебель</span>
+										<span>Разное</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -223,22 +228,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/raznoe/DSC01077.JPG" class="img-responsive" alt="Корпусная мебель ">
+								<img src="images/cabinet/raznoe/008.jpg" class="img-responsive" alt="Разное ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/DSC01077.JPG" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/raznoe/008.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Корпусная мебель</span>
+										<span>Разное</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -249,22 +254,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/raznoe/DSC01201.JPG" class="img-responsive" alt="Корпусная мебель ">
+								<img src="images/cabinet/raznoe/009.jpg" class="img-responsive" alt="Разное ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/DSC01201.JPG" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/raznoe/009.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Корпусная мебель</span>
+										<span>Разное</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -275,22 +280,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/raznoe/DSC01204.JPG" class="img-responsive" alt="Корпусная мебель ">
+								<img src="images/cabinet/raznoe/010.jpg" class="img-responsive" alt="Разное ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/DSC01204.JPG" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/raznoe/010.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Корпусная мебель</span>
+										<span>Разное</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -301,22 +306,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/raznoe/DSC01351.JPG" class="img-responsive" alt="Корпусная мебель ">
+								<img src="images/cabinet/raznoe/011.jpg" class="img-responsive" alt="Разное ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/DSC01351.JPG" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/raznoe/011.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Корпусная мебель</span>
+										<span>Разное</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -327,22 +332,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/raznoe/DSC01352.JPG" class="img-responsive" alt="Корпусная мебель ">
+								<img src="images/cabinet/raznoe/012.jpg" class="img-responsive" alt="Разное ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/DSC01352.JPG" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/raznoe/012.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Корпусная мебель</span>
+										<span>Разное</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -353,22 +358,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/raznoe/DSC01470.JPG" class="img-responsive" alt="Корпусная мебель ">
+								<img src="images/cabinet/raznoe/013.jpg" class="img-responsive" alt="Разное ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/DSC01470.JPG" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/raznoe/013.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Корпусная мебель</span>
+										<span>Разное</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -379,22 +384,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/raznoe/DSC01553.JPG" class="img-responsive" alt="Корпусная мебель ">
+								<img src="images/cabinet/raznoe/014.jpg" class="img-responsive" alt="Разное ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/raznoe/DSC01553.JPG" rel="Корпусная мебель " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/raznoe/014.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Корпусная мебель</span>
+										<span>Разное</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -407,7 +412,189 @@ require_once 'container-head-top.php';
 								</div>
 							</div>
 						</div>
-					</div>																									
+					</div>																								
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/raznoe/015.jpg" class="img-responsive" alt="Разное ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/raznoe/015.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Разное</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/raznoe/016.jpg" class="img-responsive" alt="Разное ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/raznoe/016.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Разное</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/raznoe/017.jpg" class="img-responsive" alt="Разное ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/raznoe/017.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Разное</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/raznoe/018.jpg" class="img-responsive" alt="Разное ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/raznoe/018.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Разное</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/raznoe/019.jpg" class="img-responsive" alt="Разное ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/raznoe/019.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Разное</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/raznoe/020.jpg" class="img-responsive" alt="Разное ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/raznoe/020.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Разное</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/raznoe/021.jpg" class="img-responsive" alt="Разное ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/raznoe/021.jpg" rel="Разное " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Разное</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>																
 					<div class="clearfix"></div>
 				</div>
 			</div>

@@ -35,7 +35,7 @@ require_once 'container-head-top.php';
 	<div class="container">
 		<h1>Мебель</h1>
 		<em></em>
-		<h2><a href="index.html">Главная</a><label>/</label>Мягкая мебель</h2>
+		<h2><a href="index.php">Главная</a><label>/</label>Мягкая мебель</h2>
 	</div>
 </div>
 <!-- //end banner-->
@@ -47,16 +47,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/soft/kresla/3.9.jpg" class="img-responsive" alt="Кресла Модель: 3.9">
+								<img src="images/soft/kresla/3.1.jpg" class="img-responsive" alt="Кресла Модель: 3.1">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/kresla/3.9.jpg" rel="Кресла Модель: 3.9" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/soft/kresla/3.1.jpg" rel="Кресла Модель: 3.1" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
 										<span>Кресла</span>
-										<h6><a href="single.html">Модель: 3.9</a></h6>
+										<h6>Модель: 3.1</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -73,16 +73,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/soft/kresla/3.2.png" class="img-responsive" alt="Кресла Модель: 3.2">
+								<img src="images/soft/kresla/3.2.jpg" class="img-responsive" alt="Кресла Модель: 3.2">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/kresla/3.2.png" rel="Кресла Модель: 3.2" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/soft/kresla/3.2.jpg" rel="Кресла Модель: 3.2" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
 										<span>Кресла</span>
-										<h6><a href="single.html">Модель: 3.2</a></h6>
+										<h6>Модель: 3.2</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -99,16 +99,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/soft/kresla/3.3.png" class="img-responsive" alt="Кресла Модель: 3.3">
+								<img src="images/soft/kresla/3.3.jpg" class="img-responsive" alt="Кресла Модель: 3.3">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/kresla/3.3.png" rel="Кресла Модель: 3.3" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/soft/kresla/3.3.jpg" rel="Кресла Модель: 3.3" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
 										<span>Кресла</span>
-										<h6><a href="single.html">Модель: 3.3</a></h6>
+										<h6>Модель: 3.3</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -125,16 +125,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/soft/kresla/3.4.png" class="img-responsive" alt="Кресла Модель: 3.4">
+								<img src="images/soft/kresla/3.4.jpg" class="img-responsive" alt="Кресла Модель: 3.4">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/kresla/3.4.png" rel="Кресла Модель: 3.4" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/soft/kresla/3.4.jpg" rel="Кресла Модель: 3.4" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
 										<span>Кресла</span>
-										<h6><a href="single.html">Модель: 3.4</a></h6>
+										<h6>Модель: 3.4</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -151,16 +151,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/soft/kresla/3.5.png" class="img-responsive" alt="Кресла Модель: 3.5">
+								<img src="images/soft/kresla/3.5.jpg" class="img-responsive" alt="Кресла Модель: 3.5">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/kresla/3.5.png" rel="Кресла Модель: 3.5" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/soft/kresla/3.5.jpg" rel="Кресла Модель: 3.5" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
 										<span>Кресла</span>
-										<h6><a href="single.html">Модель: 3.5</a></h6>
+										<h6>Модель: 3.5</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -177,16 +177,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/soft/kresla/3.6.png" class="img-responsive" alt="Кресла Модель: 3.6">
+								<img src="images/soft/kresla/3.6.jpg" class="img-responsive" alt="Кресла Модель: 3.6">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/kresla/3.6.png" rel="Кресла Модель: 3.6" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/soft/kresla/3.6.jpg" rel="Кресла Модель: 3.6" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
 										<span>Кресла</span>
-										<h6><a href="single.html">Модель: 3.6</a></h6>
+										<h6>Модель: 3.6</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -204,16 +204,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/soft/kresla/3.7.png" class="img-responsive" alt="Кресла Модель: 3.7">
+								<img src="images/soft/kresla/3.7.jpg" class="img-responsive" alt="Кресла Модель: 3.7">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/kresla/3.7.png" rel="Кресла Модель: 3.7" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/soft/kresla/3.7.jpg" rel="Кресла Модель: 3.7" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
 										<span>Кресла</span>
-										<h6><a href="single.html">Модель: 3.7</a></h6>
+										<h6>Модель: 3.7</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -230,16 +230,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/soft/kresla/3.8.png" class="img-responsive" alt="Кресла Модель: 3.8">
+								<img src="images/soft/kresla/3.8.jpg" class="img-responsive" alt="Кресла Модель: 3.8">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/kresla/3.8.png" rel="Кресла Модель: 3.8" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/soft/kresla/3.8.jpg" rel="Кресла Модель: 3.8" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
 										<span>Кресла</span>
-										<h6><a href="single.html">Модель: 3.8</a></h6>
+										<h6>Модель: 3.8</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -253,32 +253,6 @@ require_once 'container-head-top.php';
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/soft/kresla/3.1.png" class="img-responsive" alt="Кресла Модель: 3.1">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/kresla/3.1.png" rel="Кресла Модель: 3.1" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Кресла</span>
-										<h6><a href="single.html">Модель: 3.1</a></h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-						</div>
-					</div>					
 					<div class="clearfix"></div>
 				</div>
 			</div>

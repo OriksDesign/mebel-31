@@ -35,7 +35,7 @@ require_once 'container-head-top.php';
 	<div class="container">
 		<h1>Мебель</h1>
 		<em></em>
-		<h2><a href="index.html">Главная</a><label>/</label>Корпусная мебель</h2>
+		<h2><a href="index.php">Главная</a><label>/</label>Корпусная мебель</h2>
 	</div>
 </div>
 <!-- //end banner-->
@@ -56,7 +56,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Модель:</a></h6>
+										<h6>Модель:</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -74,7 +74,7 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/dizayn-proyekty/002.jpg" class="img-responsive" alt="Дизайн-проект Модель: 12">
+								<img src="images/cabinet/dizayn-proyekty/002.jpg" class="img-responsive" alt="Дизайн-проект Модель: 002">
 								<div class="zoom-icon ">
 									<a class="picture" href="images/cabinet/dizayn-proyekty/002.jpg" rel="Дизайн-проект Модель: 2.2" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
@@ -83,7 +83,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Модель:</a></h6>
+										<h6>Модель:</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -110,7 +110,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Модель:</a></h6>
+										<h6>Модель:</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -137,7 +137,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Модель:</a></h6>
+										<h6>Модель:</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -164,7 +164,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Модель:</a></h6>
+										<h6>Модель:</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -191,7 +191,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Модель:</a></h6>
+										<h6>Модель:</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -219,7 +219,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Модель:</a></h6>
+										<h6>Модель:</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -246,7 +246,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Модель:</a></h6>
+										<h6>Модель:</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -273,7 +273,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Детская</a></h6>
+										<h6>Детская</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -300,7 +300,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Детская</a></h6>
+										<h6>Детская</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -327,7 +327,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Кухня</a></h6>
+										<h6>Кухня</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -354,7 +354,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Кухня</a></h6>
+										<h6>Кухня</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -381,7 +381,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Разное</a></h6>
+										<h6>Разное</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -408,7 +408,7 @@ require_once 'container-head-top.php';
 								<div class="women">
 									<div class="women-top">
 										<span>Дизайн-проект</span>
-										<h6><a href="single.html">Разное</a></h6>
+										<h6>Разное</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -421,7 +421,189 @@ require_once 'container-head-top.php';
 								</div>
 							</div>
 						</div>
-					</div>																									
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/dizayn-proyekty/raznoe/003.jpg" class="img-responsive" alt="Дизайн-проект: Разное">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/dizayn-proyekty/raznoe/003.jpg" rel="Дизайн-проект: Разное" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Дизайн-проект</span>
+										<h6>Разное</h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/dizayn-proyekty/raznoe/004.jpg" class="img-responsive" alt="Дизайн-проект: Разное">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/dizayn-proyekty/raznoe/004.jpg" rel="Дизайн-проект: Разное" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Дизайн-проект</span>
+										<h6>Разное</h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/dizayn-proyekty/raznoe/005.jpg" class="img-responsive" alt="Дизайн-проект: Разное">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/dizayn-proyekty/raznoe/005.jpg" rel="Дизайн-проект: Разное" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Дизайн-проект</span>
+										<h6>Разное</h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/dizayn-proyekty/raznoe/006.jpg" class="img-responsive" alt="Дизайн-проект: Разное">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/dizayn-proyekty/raznoe/006.jpg" rel="Дизайн-проект: Разное" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Дизайн-проект</span>
+										<h6>Разное</h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/dizayn-proyekty/raznoe/007.jpg" class="img-responsive" alt="Дизайн-проект: Разное">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/dizayn-proyekty/raznoe/007.jpg" rel="Дизайн-проект: Разное" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Дизайн-проект</span>
+										<h6>Разное</h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/dizayn-proyekty/raznoe/008.jpg" class="img-responsive" alt="Дизайн-проект: Разное">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/dizayn-proyekty/raznoe/008.jpg" rel="Дизайн-проект: Разное" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Дизайн-проект</span>
+										<h6>Разное</h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/dizayn-proyekty/raznoe/009.jpg" class="img-responsive" alt="Дизайн-проект: Разное">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/dizayn-proyekty/raznoe/009.jpg" rel="Дизайн-проект: Разное" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Дизайн-проект</span>
+										<h6>Разное</h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
 					<div class="clearfix"></div>
 				</div>
 			</div>

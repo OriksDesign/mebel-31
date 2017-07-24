@@ -121,33 +121,7 @@ require_once 'container-head-top.php';
 								</div>
 							</div>
 						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/soft/kukhonnyye-divany-ugolki/5.4.jpg" class="img-responsive" alt="Кухонные диваны и уголки Модель: 5.4">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/kukhonnyye-divany-ugolki/5.4.jpg" rel="Кухонные диваны и уголки Модель: 5.4" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Кухонные диваны и уголки</span>
-										<h6>Модель: 5.4</h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-							</div>
-						</div>
-					</div>										
+					</div>					
 					<div class="clearfix"></div>
 				</div>
 			</div>

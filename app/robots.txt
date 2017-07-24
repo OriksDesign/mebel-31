@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: http://www.mebel-31.com.ru/sitemap.xml
+Disallow: /cgi-bin
+Host: www.mebel-31.com.ru

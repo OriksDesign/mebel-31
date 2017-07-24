@@ -35,7 +35,7 @@ require_once 'container-head-top.php';
 	<div class="container">
 		<h1>Мебель</h1>
 		<em></em>
-		<h2><a href="index.html">Главная</a><label>/</label>Мягкая мебель</h2>
+		<h2><a href="index.php">Главная</a><label>/</label>Мягкая мебель</h2>
 	</div>
 </div>
 <!-- //end banner-->
@@ -47,16 +47,94 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/soft/divan/4.1.png" class="img-responsive" alt="Диван Модель: 4.1">
+								<img src="images/soft/divan/4.1.jpg" class="img-responsive" alt="Диван Модель: 4.1">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/divan/4.1.png" rel="Диван Модель: 4.1" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/soft/divan/4.1.jpg" rel="Диван Модель: 4.1" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
 										<span>Диван</span>
-										<h6><a href="single.html">Модель: 4.1</a></h6>
+										<h6>Модель: 4.1</h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/soft/divan/4.2.jpg" class="img-responsive" alt="Диван Модель: 4.2">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/soft/divan/4.2.jpg" rel="Диван Модель: 4.2" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Диван</span>
+										<h6>Модель: 4.2</h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/soft/divan/4.3.jpg" class="img-responsive" alt="Диван Модель: 4.3">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/soft/divan/4.3.jpg" rel="Диван Модель: 4.3" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Диван</span>
+										<h6>Модель: 4.3</h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/soft/divan/4.4.jpg" class="img-responsive" alt="Диван Модель: 4.4">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/soft/divan/4.4.jpg" rel="Диван Модель: 4.4" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Диван</span>
+										<h6>Модель: 4.4</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>

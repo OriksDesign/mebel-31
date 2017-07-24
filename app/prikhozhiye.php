@@ -35,7 +35,7 @@ require_once 'container-head-top.php';
 	<div class="container">
 		<h1>Мебель</h1>
 		<em></em>
-		<h2><a href="index.html">Главная</a><label>/</label>Корпусная мебель</h2>
+		<h2><a href="index.php">Главная</a><label>/</label>Корпусная мебель</h2>
 	</div>
 </div>
 <!-- //end banner-->
@@ -47,16 +47,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/0.jpg" class="img-responsive" alt="Прихожая ">
+								<img src="images/cabinet/prikhozhiye/001.jpg" class="img-responsive" alt="Прихожие">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/0.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/prikhozhiye/001.jpg" rel="Прихожие" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
+										<span>Прихожие</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -74,16 +74,43 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/017.jpg" class="img-responsive" alt="Прихожая ">
+								<img src="images/cabinet/prikhozhiye/002.jpg" class="img-responsive" alt="Прихожие">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/017.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/prikhozhiye/002.jpg" rel="Прихожие" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
+										<span>Прихожие</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/prikhozhiye/003.jpg" class="img-responsive" alt="Прихожие:">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/prikhozhiye/003.jpg" rel="Прихожие:" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Прихожие</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -101,16 +128,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/03.jpg" class="img-responsive" alt="Прихожая ">
+								<img src="images/cabinet/prikhozhiye/004.jpg" class="img-responsive" alt="Прихожие">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/03.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/prikhozhiye/004.jpg" rel="Прихожие" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
+										<span>Прихожие</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -128,16 +155,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/16.jpg" class="img-responsive" alt="Прихожая ">
+								<img src="images/cabinet/prikhozhiye/005.jpg" class="img-responsive" alt="Прихожие">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/16.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/prikhozhiye/005.jpg" rel="Прихожие" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
+										<span>Прихожие</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -148,23 +175,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/10.jpg" class="img-responsive" alt="Прихожая ">
+								<img src="images/cabinet/prikhozhiye/006.jpg" class="img-responsive" alt="Прихожие ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/10.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/prikhozhiye/006.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
+										<span>Прихожие</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -175,34 +201,6 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/10.jpg" class="img-responsive" alt="Прихожая ">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/10.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
 							</div>
 						</div>
 					</div>
@@ -210,16 +208,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/100.jpg" class="img-responsive" alt="Прихожая ">
+								<img src="images/cabinet/prikhozhiye/007.jpg" class="img-responsive" alt="Прихожие ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/100.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/prikhozhiye/007.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
+										<span>Прихожие</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -230,23 +228,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/11.jpg" class="img-responsive" alt="Прихожая ">
+								<img src="images/cabinet/prikhozhiye/008.jpg" class="img-responsive" alt="Прихожие ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/11.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/prikhozhiye/008.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
+										<span>Прихожие</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -257,23 +254,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/1129.jpg" class="img-responsive" alt="Прихожая ">
+								<img src="images/cabinet/prikhozhiye/009.jpg" class="img-responsive" alt="Прихожие ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/1129.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/prikhozhiye/009.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
+										<span>Прихожие</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -284,23 +280,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/1139.jpg" class="img-responsive" alt="Прихожая ">
+								<img src="images/cabinet/prikhozhiye/010.jpg" class="img-responsive" alt="Прихожие ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/1139.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/prikhozhiye/010.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
+										<span>Прихожие</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -311,23 +306,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/1143.jpg" class="img-responsive" alt="Прихожая ">
+								<img src="images/cabinet/prikhozhiye/011.jpg" class="img-responsive" alt="Прихожие ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/1143.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/prikhozhiye/011.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
+										<span>Прихожие</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -338,23 +332,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/12.jpg" class="img-responsive" alt="Прихожая ">
+								<img src="images/cabinet/prikhozhiye/012.jpg" class="img-responsive" alt="Прихожие ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/12.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/prikhozhiye/012.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
+										<span>Прихожие</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -365,23 +358,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/14.jpg" class="img-responsive" alt="Прихожая ">
+								<img src="images/cabinet/prikhozhiye/013.jpg" class="img-responsive" alt="Прихожие ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/14.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/prikhozhiye/013.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
+										<span>Прихожие</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -392,23 +384,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/prikhozhiye/15.jpg" class="img-responsive" alt="Прихожая ">
+								<img src="images/cabinet/prikhozhiye/014.jpg" class="img-responsive" alt="Прихожие ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/prikhozhiye/15.jpg" rel="Прихожая " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/prikhozhiye/014.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Прихожая</span>
-										<h6><a href="single.html"></a></h6>
+										<span>Прихожие</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -419,10 +410,191 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
-					</div>																									
+					</div>																								
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/prikhozhiye/015.jpg" class="img-responsive" alt="Прихожие ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/prikhozhiye/015.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Прихожие</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/prikhozhiye/016.jpg" class="img-responsive" alt="Прихожие ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/prikhozhiye/016.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Прихожие</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/prikhozhiye/017.jpg" class="img-responsive" alt="Прихожие ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/prikhozhiye/017.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Прихожие</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/prikhozhiye/018.jpg" class="img-responsive" alt="Прихожие ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/prikhozhiye/018.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Прихожие</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/prikhozhiye/019.jpg" class="img-responsive" alt="Прихожие ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/prikhozhiye/019.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Прихожие</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/prikhozhiye/020.jpg" class="img-responsive" alt="Прихожие ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/prikhozhiye/020.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Прихожие</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/prikhozhiye/021.jpg" class="img-responsive" alt="Прихожие ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/prikhozhiye/021.jpg" rel="Прихожие " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Прихожие</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>																
 					<div class="clearfix"></div>
 				</div>
 			</div>

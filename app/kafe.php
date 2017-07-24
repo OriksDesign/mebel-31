@@ -35,7 +35,7 @@ require_once 'container-head-top.php';
 	<div class="container">
 		<h1>Мебель</h1>
 		<em></em>
-		<h2><a href="index.html">Главная</a><label>/</label>Мягкая мебель</h2>
+		<h2><a href="index.php">Главная</a><label>/</label>Мягкая мебель</h2>
 	</div>
 </div>
 <!-- //end banner-->
@@ -47,16 +47,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.1.png" class="img-responsive" alt="Угловой диван Модель: 2.1">
+								<img src="images/soft/kafe/8.1.jpg" class="img-responsive" alt="Мебель для кафе, ресторанов Модель: 8.1">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.1.png" rel="Угловой диван Модель: 2.1" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/soft/kafe/8.1.jpg" rel="Мебель для кафе, ресторанов Модель: 8.1" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.1</a></h6>
+										<span>Мебель для кафе, ресторанов</span>
+										<h6>Модель: 8.1</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -74,16 +74,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.2.png" class="img-responsive" alt="Угловой диван Модель: 2.2">
+								<img src="images/soft/kafe/8.2.jpg" class="img-responsive" alt="Мебель для кафе, ресторанов Модель: 8.2">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.2.png" rel="Угловой диван Модель: 2.2" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/soft/kafe/8.2.jpg" rel="Мебель для кафе, ресторанов Модель: 8.2" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.2</a></h6>
+										<span>Мебель для кафе, ресторанов</span>
+										<h6>Модель: 8.2</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -101,16 +101,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.3.png" class="img-responsive" alt="Угловой диван Модель: 2.3">
+								<img src="images/soft/kafe/8.3.jpg" class="img-responsive" alt="Мебель для кафе, ресторанов Модель: 8.3">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.3.png" rel="Угловой диван Модель: 2.3" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/soft/kafe/8.3.jpg" rel="Мебель для кафе, ресторанов Модель: 8.3" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.3</a></h6>
+										<span>Мебель для кафе, ресторанов</span>
+										<h6>Модель: 8.3</h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -125,304 +125,6 @@ require_once 'container-head-top.php';
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.4.png" class="img-responsive" alt="Угловой диван Модель: 2.4">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.4.png" rel="Угловой диван Модель: 2.4" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.4</a></h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.5.png" class="img-responsive" alt="Угловой диван Модель: 2.5">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.5.png" rel="Угловой диван Модель: 2.5" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.5</a></h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.6.png" class="img-responsive" alt="Угловой диван Модель: 2.6">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.6.png" rel="Угловой диван Модель: 2.6" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.6</a></h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="clearfix"></div>					
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.7.png" class="img-responsive" alt="Угловой диван Модель: 2.7">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.7.png" rel="Угловой диван Модель: 2.7" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.7</a></h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.8.png" class="img-responsive" alt="Угловой диван Модель: 2.8">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.8.png" rel="Угловой диван Модель: 2.8" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.8</a></h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.9.png" class="img-responsive" alt="Угловой диван Модель: 2.9">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.9.png" rel="Угловой диван Модель: 2.9" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.9</a></h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.10.png" class="img-responsive" alt="Угловой диван Модель: 2.10">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.10.png" rel="Угловой диван Модель: 2.10" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.10</a></h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.11.png" class="img-responsive" alt="Угловой диван Модель: 2.11">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.11.png" rel="Угловой диван Модель: 2.11" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.11</a></h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.12.png" class="img-responsive" alt="Угловой диван Модель: 2.12">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.12.png" rel="Угловой диван Модель: 2.12" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.12</a></h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.13.png" class="img-responsive" alt="Угловой диван Модель: 2.13">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.13.png" rel="Угловой диван Модель: 2.13" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.13</a></h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/soft/uglovoy-divan/2.14.png" class="img-responsive" alt="Угловой диван Модель: 2.14">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/soft/uglovoy-divan/2.14.png" rel="Угловой диван Модель: 2.14" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Угловой диван</span>
-										<h6><a href="single.html">Модель: 2.14</a></h6>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>																									
 					<div class="clearfix"></div>
 				</div>
 			</div>

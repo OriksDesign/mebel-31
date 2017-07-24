@@ -35,7 +35,7 @@ require_once 'container-head-top.php';
 	<div class="container">
 		<h1>Мебель</h1>
 		<em></em>
-		<h2><a href="index.html">Главная</a><label>/</label>Корпусная мебель</h2>
+		<h2><a href="index.php">Главная</a><label>/</label>Корпусная мебель</h2>
 	</div>
 </div>
 <!-- //end banner-->
@@ -47,15 +47,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/10.jpg" class="img-responsive" alt="Шкаф-купе ">
+								<img src="images/cabinet/shkafy-kupe/001.jpg" class="img-responsive" alt="Шкафы-купе">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/10.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/shkafy-kupe/001.jpg" rel="Шкафы-купе" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Шкаф-купе</span>
+										<span>Шкафы-купе</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -73,15 +74,43 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/10012008288.jpg" class="img-responsive" alt="Шкаф-купе ">
+								<img src="images/cabinet/shkafy-kupe/002.jpg" class="img-responsive" alt="Шкафы-купе">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/10012008288.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/shkafy-kupe/002.jpg" rel="Шкафы-купе" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Шкаф-купе</span>
+										<span>Шкафы-купе</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/shkafy-kupe/003.jpg" class="img-responsive" alt="Шкафы-купе:">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/shkafy-kupe/003.jpg" rel="Шкафы-купе:" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Шкафы-купе</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -99,42 +128,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/12.jpg" class="img-responsive" alt="Шкаф-купе ">
+								<img src="images/cabinet/shkafy-kupe/004.jpg" class="img-responsive" alt="Шкафы-купе">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/12.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/shkafy-kupe/004.jpg" rel="Шкафы-купе" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Шкаф-купе</span>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/127.jpg" class="img-responsive" alt="Шкаф-купе ">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/127.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Шкаф-купе</span>
+										<span>Шкафы-купе</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -152,15 +155,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/13.jpg" class="img-responsive" alt="Шкаф-купе ">
+								<img src="images/cabinet/shkafy-kupe/005.jpg" class="img-responsive" alt="Шкафы-купе">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/13.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/shkafy-kupe/005.jpg" rel="Шкафы-купе" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Шкаф-купе</span>
+										<span>Шкафы-купе</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -171,22 +175,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/14.jpg" class="img-responsive" alt="Шкаф-купе ">
+								<img src="images/cabinet/shkafy-kupe/006.jpg" class="img-responsive" alt="Шкафы-купе ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/14.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/shkafy-kupe/006.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Шкаф-купе</span>
+										<span>Шкафы-купе</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -197,7 +201,6 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
@@ -205,145 +208,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/15.jpg" class="img-responsive" alt="Шкаф-купе ">
+								<img src="images/cabinet/shkafy-kupe/007.jpg" class="img-responsive" alt="Шкафы-купе ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/15.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/shkafy-kupe/007.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Шкаф-купе</span>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/16.jpg" class="img-responsive" alt="Шкаф-купе ">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/16.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Шкаф-купе</span>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/17.jpg" class="img-responsive" alt="Шкаф-купе ">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/17.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Шкаф-купе</span>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/18.jpg" class="img-responsive" alt="Шкаф-купе ">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/18.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Шкаф-купе</span>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/23.jpg" class="img-responsive" alt="Шкаф-купе ">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/23.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Шкаф-купе</span>
-									</div>
-									<div class="float-right">
-										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="mid-2">
-									<p>Описание</p>
-									<div class="clearfix"></div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
-						<div class=" mid-pop">
-							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/24.jpg" class="img-responsive" alt="Шкаф-купе ">
-								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/24.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-								</div>
-							</div>
-							<div class="mid-1">
-								<div class="women">
-									<div class="women-top">
-										<span>Шкаф-купе</span>
+										<span>Шкафы-купе</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -360,15 +234,16 @@ require_once 'container-head-top.php';
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/25.jpg" class="img-responsive" alt="Шкаф-купе ">
+								<img src="images/cabinet/shkafy-kupe/008.jpg" class="img-responsive" alt="Шкафы-купе ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/25.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/shkafy-kupe/008.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Шкаф-купе</span>
+										<span>Шкафы-купе</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -379,22 +254,22 @@ require_once 'container-head-top.php';
 									<p>Описание</p>
 									<div class="clearfix"></div>
 								</div>
-								
 							</div>
 						</div>
 					</div>
 					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
 						<div class=" mid-pop">
 							<div class="pro-img">
-								<img src="images/cabinet/shkafy-kupe/26.jpg" class="img-responsive" alt="Шкаф-купе ">
+								<img src="images/cabinet/shkafy-kupe/009.jpg" class="img-responsive" alt="Шкафы-купе ">
 								<div class="zoom-icon ">
-									<a class="picture" href="images/cabinet/shkafy-kupe/26.jpg" rel="Шкаф-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+									<a class="picture" href="images/cabinet/shkafy-kupe/009.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
 								</div>
 							</div>
 							<div class="mid-1">
 								<div class="women">
 									<div class="women-top">
-										<span>Шкаф-купе</span>
+										<span>Шкафы-купе</span>
+										<h6></h6>
 									</div>
 									<div class="float-right">
 										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
@@ -407,7 +282,319 @@ require_once 'container-head-top.php';
 								</div>
 							</div>
 						</div>
-					</div>																									
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/shkafy-kupe/010.jpg" class="img-responsive" alt="Шкафы-купе ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/shkafy-kupe/010.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Шкафы-купе</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/shkafy-kupe/011.jpg" class="img-responsive" alt="Шкафы-купе ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/shkafy-kupe/011.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Шкафы-купе</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/shkafy-kupe/012.jpg" class="img-responsive" alt="Шкафы-купе ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/shkafy-kupe/012.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Шкафы-купе</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/shkafy-kupe/013.jpg" class="img-responsive" alt="Шкафы-купе ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/shkafy-kupe/013.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Шкафы-купе</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/shkafy-kupe/014.jpg" class="img-responsive" alt="Шкафы-купе ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/shkafy-kupe/014.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Шкафы-купе</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>																								
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/shkafy-kupe/015.jpg" class="img-responsive" alt="Шкафы-купе ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/shkafy-kupe/015.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Шкафы-купе</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/shkafy-kupe/016.jpg" class="img-responsive" alt="Шкафы-купе ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/shkafy-kupe/016.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Шкафы-купе</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/shkafy-kupe/017.jpg" class="img-responsive" alt="Шкафы-купе ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/shkafy-kupe/017.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Шкафы-купе</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/shkafy-kupe/018.jpg" class="img-responsive" alt="Шкафы-купе ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/shkafy-kupe/018.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Шкафы-купе</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/shkafy-kupe/019.jpg" class="img-responsive" alt="Шкафы-купе ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/shkafy-kupe/019.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Шкафы-купе</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/shkafy-kupe/020.jpg" class="img-responsive" alt="Шкафы-купе ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/shkafy-kupe/020.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Шкафы-купе</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 item-grid1 simpleCart_shelfItem">
+						<div class=" mid-pop">
+							<div class="pro-img">
+								<img src="images/cabinet/shkafy-kupe/021.jpg" class="img-responsive" alt="Шкафы-купе ">
+								<div class="zoom-icon ">
+									<a class="picture" href="images/cabinet/shkafy-kupe/021.jpg" rel="Шкафы-купе " class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
+								</div>
+							</div>
+							<div class="mid-1">
+								<div class="women">
+									<div class="women-top">
+										<span>Шкафы-купе</span>
+										<h6></h6>
+									</div>
+									<div class="float-right">
+										<a  href="#call-popup" class="open-popup-link"><div class="btn btn-danger">Заказать</div></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="mid-2">
+									<p>Описание</p>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+					</div>																
 					<div class="clearfix"></div>
 				</div>
 			</div>
